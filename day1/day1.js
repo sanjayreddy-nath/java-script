@@ -29,7 +29,7 @@ if (gender=='male'){
     }
 }
 
-// OUTPUT: >--
+// output: >--
 
     // gender = 'male' , age = 25 ==> returns:- Your are eligible for marriage
     // gender = 'male' , age = 16 ==> returns:- Your are not eligible for marriage
@@ -46,7 +46,7 @@ if (age>=18){
 }else{
     console.log("person is not eligible to apply for a driving license.")
 }
-//OUTPUT:>--
+//output:>--
 
     // age = 22 ==> returns:- person is eligible to apply for a driving license.
     // age = 15 ==> returns:- person is not eligible to apply for a driving license.
@@ -59,7 +59,7 @@ if (marks>=75){
 }else{
     console.log("student is not eligible to appear for an exam")
 }
-//OUTPUT: >--
+//output: >--
 
     // marks = 70 ==> returns:- student is not eligible to appear for an exam
     // marks = 85 ==> returns:- student is eligible to appear for an exam
@@ -73,7 +73,7 @@ if (age>=60){
     console.log("person not eligible for a senior citizen discount")
 }
 
-// OUTPUT: >--
+// output: >--
 
     // age= 65 ==> returns:- Person eligible for a senior citizen discount
     // age= 50 ==> returns:- Person not eligible for a senior citizen discount
